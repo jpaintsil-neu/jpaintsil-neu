@@ -31,10 +31,14 @@ I enjoy working at the intersection of **technology, risk, security, and busines
 - Data structures, algorithms, and software design
 - Git and collaborative development workflows
 
+---
+
+## 📜 Professional Certifications
+
 I'm also currently preparing for:
 
-- **Certified Information Systems Auditor (CISA)**
-- **CompTIA Security+**
+* 🛡️ [**CompTIA Security+**](https://comptia.org) — Global Core Cybersecurity Skills
+* 📂 [**ISACA CISA**](https://isaca.org) — Certified Information Systems Auditor
 
 ---
 
@@ -50,11 +54,13 @@ I'm also currently preparing for:
 
 ### Development Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,commandline&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,linux,commandline&theme=dark)](https://skillicons.dev)
 
 ### Cybersecurity & Networking
 
-[![My Skills](https://skillicons.dev/icons?i=kali,nmap,wireshark,metasploit&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,nmap,wireshark,metasploit&theme=light)](https://skillicons.dev)  <a href="https://wireshark.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" height="40" />
+  </a>
 
 ### Audit, Risk & Controls
 
@@ -119,8 +125,8 @@ I'm always interested in connecting with professionals working in:
 **Cybersecurity • IT Audit • Technology Risk • GRC • Software Development • Internal Audit**
 
 📧 **Email:** [jpaintsil@norton.me]   
-🌐 **Portfolio:** [https://jpaintsil-neu.github.io/personal-homepage/]
-💼 **LinkedIn:** [] 
+🌐 **Portfolio:** []   
+💼 **LinkedIn:** []   
 
 ---
 
