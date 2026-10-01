@@ -42,19 +42,19 @@ I'm also currently preparing for:
 
 ### Programming & Scripting
 
-`Python` • `Java` • `C` • `JavaScript` • `Bash` • `PowerShell`
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,nodejs,bash,powershell&theme=dark)](https://skillicons.dev)
 
 ### Web Development
 
-`HTML5` • `CSS3` • `JavaScript` • `React` • `Node.js` • `Express`
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,bootstrap,express&theme=dark)](https://skillicons.dev)
 
 ### Development Tools
 
-`Git` • `GitHub` • `VS Code` • `Command Line` • `Linux`
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,commandline&theme=dark)](https://skillicons.dev)
 
 ### Cybersecurity & Networking
 
-`Kali Linux` • `Nmap` • `Wireshark` • `Metasploit`
+[![My Skills](https://skillicons.dev/icons?i=kali,nmap,wireshark,metasploit&theme=dark)](https://skillicons.dev)
 
 ### Audit, Risk & Controls
 
