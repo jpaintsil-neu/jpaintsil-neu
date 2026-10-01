@@ -50,7 +50,7 @@ I'm also currently preparing for:
 
 ### Development Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,commandline&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,commandline&theme=dark)](https://skillicons.dev)
 
 ### Cybersecurity & Networking
 
