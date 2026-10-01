@@ -118,9 +118,9 @@ I'm always interested in connecting with professionals working in:
 
 **Cybersecurity • IT Audit • Technology Risk • GRC • Software Development • Internal Audit**
 
-📧 **Email:** [jpaintsil@norton.me]  
-💼 **LinkedIn:** []  
-🌐 **Portfolio:** []
+📧 **Email:** [jpaintsil@norton.me]   
+🌐 **Portfolio:** [https://jpaintsil-neu.github.io/personal-homepage/]
+💼 **LinkedIn:** [] 
 
 ---
 
