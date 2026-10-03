@@ -1,20 +1,14 @@
 <h1 align="center">Hey, I'm John 👋</h1>
 
 <p align="center">
-  <img src="./assets/developer-banner.gif" alt="Code, security, and automation — ideas into projects, learning into practice." width="1000">
+  <img src="./assets/JavaScript-is-the-Boss.gif" alt="Animated JavaScript illustration connecting code with devices and digital tools." width="1000">
 </p>
 
-<p align="center">
-  <a href="https://jpaintsil-neu.github.io/personal-homepage/">Portfolio</a> ·
-  <a href="https://github.com/jpaintsil-neu?tab=repositories">Repositories</a> ·
-  <a href="mailto:jpaintsil@norton.me">Get in touch</a>
-</p>
+I'm John, exploring **software development, cybersecurity, and automation** through practical projects. My background in **accounting, internal audit, SOX compliance, and risk** has shaped how I approach technology: understand the system, question assumptions, and turn problems into useful solutions.
 
-I'm building practical skills in **software development, cybersecurity, and automation** through hands-on projects. This GitHub is where I turn learning into working code and document the decisions along the way.
+This GitHub brings that perspective into **web applications, security tooling, scripting, and programming fundamentals**. Each repository documents a step in that journey through working code, design decisions, and lessons learned.
 
-My background in audit and risk shapes how I approach code: understand the system, question assumptions, and think about what could go wrong.
-
-## 🛠 My Toolbox
+## Technical Toolkit
 
 ### Languages & Scripting
 
@@ -27,7 +21,7 @@ My background in audit and risk shapes how I approach code: understand the syste
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" alt="PowerShell" title="PowerShell" width="42" height="42">
 </p>
 
-Python is my focus for security tooling and automation, Java for object-oriented programming, and C for systems fundamentals. I use JavaScript for browser interactions and asynchronous data loading, while expanding my command-line scripting with Bash and PowerShell.
+Core programming work spans **Python** for security tooling and automation, **Java** for object-oriented programming, and **C** for systems fundamentals. **JavaScript** supports interactive browser behavior and asynchronous data loading, while **Bash** and **PowerShell** support continued practice in command-line scripting.
 
 ### Web Development
 
@@ -37,7 +31,7 @@ Python is my focus for security tooling and automation, Java for object-oriented
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="42" height="42">
 </p>
 
-I build responsive, accessible interfaces with HTML and CSS, using Bootstrap for layouts when appropriate. ES6 modules keep my JavaScript organized, and the Fetch API connects pages to data.
+Front-end projects combine **HTML** for semantic structure, **CSS** for responsive styling, and **Bootstrap** for reusable layouts. **ES6 modules** organize application logic, while the **Fetch API** enables data-driven interfaces. Accessibility and usability guide navigation, controls, and page structure.
 
 ### Tools & Workflow
 
@@ -48,7 +42,7 @@ I build responsive, accessible interfaces with HTML and CSS, using Bootstrap for
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" title="Linux" width="42" height="42">
 </p>
 
-Git and GitHub help me track changes, collaborate, and document projects. VS Code is my main coding environment; Linux supports command-line practice, while ESLint and Prettier help keep my code consistent.
+Development workflows use **Git** and **GitHub** for version control, collaboration, and project documentation. **VS Code** supports coding and debugging, while **Linux** provides a command-line environment. **ESLint** and **Prettier** help maintain code quality and consistent formatting.
 
 <sub>Icons by [Skill Icons](https://github.com/tandpfun/skill-icons).</sub>
 
