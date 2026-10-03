@@ -94,16 +94,26 @@ A full-stack application for organizing audit findings and tracking remediation 
 
 ## 📊 GitHub Stats
 
-<div>
+<p align="center">
   <img
     height="165"
     src="https://streak-stats.demolab.com/?user=jpaintsil-neu&theme=dark&hide_border=false"
-    alt="John Paintsil's GitHub contribution streak"
+    alt="GitHub contribution streak"
   />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     height="165"
     src="https://github-readme-stats-eight-roan-64.vercel.app/api/top-langs/?username=jpaintsil-neu&layout=compact&theme=tokyonight&hide_border=true"
-    alt="John Paintsil's most-used repository languages"
+    alt="Most-used repository languages"
   />
-</div>
+</p>
+
 <br>
+
+<p align="center">
+  <img
+    width="800"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpaintsil-neu&theme=tokyonight"
+    alt="GitHub profile summary and contribution activity over time"
+  />
+</p>
