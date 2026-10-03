@@ -1,133 +1,53 @@
-# Hi, I'm John 👋
+<h1 align="center">John Paintsil</h1>
 
-## About Me
+<p align="center">
+  <strong>Audit &amp; Risk · Cybersecurity · Software Development</strong><br>
+  Connecting business controls with practical technology.
+</p>
 
-I'm an **IT, audit, risk, and cybersecurity professional** with a background spanning internal audit, financial controls, SOX compliance, information technology, and technology risk.
-
-My professional experience has focused on evaluating business and technology controls, identifying risk, improving processes, and helping organizations strengthen their control environments. Alongside my audit and risk background, I continue to expand my hands-on technical capabilities through software development, cybersecurity, automation, and web development projects.
-
-I enjoy working at the intersection of **technology, risk, security, and business operations** — particularly where technical solutions can improve controls, efficiency, security, or decision-making.
-
----
-
-## 🔭 What I'm Currently Working On
-
-- Building practical **software development and cybersecurity projects**
-- Expanding my knowledge of **web application development**
-- Developing projects involving **Python, Java, C, JavaScript, and scripting**
-- Strengthening my understanding of **IT controls, cybersecurity, and technology risk**
-- Exploring automation opportunities for **audit, risk, compliance, and security workflows**
-- Building a portfolio of projects that demonstrate both **technical and analytical problem-solving**
+<p align="center">
+  <a href="https://jpaintsil-neu.github.io/personal-homepage/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-16324F?style=flat-square" alt="Visit my portfolio"></a>
+  <a href="https://github.com/jpaintsil-neu?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20Code-0F766E?style=flat-square" alt="Explore my repositories"></a>
+  <a href="mailto:jpaintsil@norton.me"><img src="https://img.shields.io/badge/Email-Let%E2%80%99s%20Connect-475569?style=flat-square" alt="Email John Paintsil"></a>
+</p>
 
 ---
 
-## 📚 What I'm Currently Learning
+## About
 
-- Full-stack web development
-- Artificial intelligence fundamentals
-- Secure software development
-- Cybersecurity and information systems auditing
-- REST APIs and backend development
-- Data structures, algorithms, and software design
-- Git and collaborative development workflows
+I bring **10+ years of experience** across accounting, internal audit, SOX compliance, operational risk, and financial controls. My work centers on evaluating controls, identifying risk, and turning findings into actionable improvements.
 
----
+I'm studying **Information Technology and Computer Science at Northeastern University**, building on that experience through hands-on programming, web development, cybersecurity, and automation projects.
 
-## 📜 Professional Certifications
+**My focus:** applying a controls mindset to secure software, technology risk, and more efficient audit and compliance workflows.
 
-I'm also currently preparing for:
+## Selected Projects
 
-* 🛡️ [**CompTIA Security+**](https://comptia.org) — Global Core Cybersecurity Skills
-* 📂 [**ISACA CISA**](https://isaca.org) — Certified Information Systems Auditor
+| Project | What it demonstrates | Explore |
+| :--- | :--- | :--- |
+| **[Personal Homepage](https://github.com/jpaintsil-neu/personal-homepage)** | Responsive design, accessible navigation, and interactive content using semantic HTML, CSS, and ES6 modules. | [Live site](https://jpaintsil-neu.github.io/personal-homepage/) |
+| **[Airbnb Listings](https://github.com/jpaintsil-neu/airbnb-listings)** | Asynchronous JSON loading, dynamic cards for 50 listings, search, and image fallbacks. | [Live demo](https://jpaintsil-neu.github.io/airbnb-listings/) |
+| **[SecretTrace](https://github.com/jpaintsil-neu/secrettrace)** | A Python security project for detecting exposed credentials, with an emphasis on privacy and explainable results. | **In development** — foundation phase |
 
----
+## Skills & Tools
 
-## 🛠️ Technologies & Tools
+| Area | Technologies & strengths |
+| :--- | :--- |
+| **Programming & scripting** | Python · Java · C · JavaScript · Bash · PowerShell |
+| **Web development** | HTML · CSS · ES6 modules · Fetch API · Bootstrap |
+| **Development workflow** | Git · GitHub · VS Code · Linux · ESLint · Prettier |
+| **Audit & risk** | Internal audit · SOX · Risk assessment · IT controls · Control testing · GRC |
 
-### Programming & Scripting
+## Current Focus
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,javascript,nodejs,bash,powershell&theme=dark)](https://skillicons.dev)
-
-### Web Development
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,bootstrap,express&theme=dark)](https://skillicons.dev)
-
-### Development Tools
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,linux,commandline&theme=dark)](https://skillicons.dev)
-
-### Cybersecurity & Networking
-
-[![My Skills](https://skillicons.dev/icons?i=kali,nmap,wireshark,metasploit&theme=light)](https://skillicons.dev)  <a href="https://wireshark.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" height="40" />
-  </a>
-
-### Audit, Risk & Controls
-
-`Internal Audit` • `SOX` • `Risk Assessment` • `Internal Controls`  
-`IT Controls` • `ITAC` • `GRC` • `Control Testing` • `Remediation Tracking`
+- Building technical depth in **secure application development and cybersecurity**.
+- Exploring **automation for audit, risk, and compliance**.
+- Preparing for **ISACA CISA** and **CompTIA Security+**.
 
 ---
 
-## 💡 Areas of Interest
-
-I'm particularly interested in projects involving:
-
-- Cybersecurity
-- IT Audit & Technology Risk
-- Governance, Risk & Compliance (GRC)
-- Secure Application Development
-- Audit Automation
-- Data Analysis
-- Artificial Intelligence
-- Web Development
-- Risk-Based Testing
-- Business Process Improvement
-
----
-
-## 🎯 Professional Focus
-
-My long-term goal is to continue combining my experience in **audit, accounting, risk, and controls** with deeper expertise in **information technology and cybersecurity**.
-
-I'm especially interested in opportunities where I can help organizations:
-
-- Identify and evaluate technology risk
-- Strengthen IT and cybersecurity controls
-- Automate manual audit and compliance processes
-- Improve governance and control environments
-- Translate technical risks into actionable business recommendations
-- Use technology and data to improve decision-making
-
----
-
-## 📂 What You'll Find Here
-
-This GitHub profile documents my continued development across several areas, including:
-
-- Software development projects
-- Web applications
-- Cybersecurity labs
-- Scripting and automation
-- Algorithms and data structures
-- Object-oriented programming
-- Security-focused programming
-- Academic and independent technology projects
-
-Each repository is intended to demonstrate not only the finished solution, but also the **design decisions, technologies, problem-solving approach, and lessons learned** during development.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with professionals working in:
-
-**Cybersecurity • IT Audit • Technology Risk • GRC • Software Development • Internal Audit**
-
-📧 **Email:** [jpaintsil@norton.me]   
-🌐 **Portfolio:** []   
-💼 **LinkedIn:** []   
-
----
-
-> **Current Focus:** Building technical depth in cybersecurity and software development while applying my professional background in audit, risk, controls, and compliance.
+<p align="center">
+  Open to conversations about <strong>IT audit, technology risk, cybersecurity, and software development.</strong><br>
+  <a href="mailto:jpaintsil@norton.me">jpaintsil@norton.me</a> ·
+  <a href="https://jpaintsil-neu.github.io/personal-homepage/">Portfolio</a>
+</p>
