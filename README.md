@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm John 👋</h1>
 
 <p align="center">
-  <strong>Web development · Security tools · Scripting &amp; automation</strong>
+  <img src="./assets/developer-banner.gif" alt="Code, security, and automation — ideas into projects, learning into practice." width="1000">
 </p>
 
 <p align="center">
@@ -10,13 +10,13 @@
   <a href="mailto:jpaintsil@norton.me">Get in touch</a>
 </p>
 
-I'm studying **Information Technology and Computer Science at Northeastern University** and learning by building. Here you'll find web projects, programming exercises, and a growing collection of security and automation work.
+I'm building practical skills in **software development, cybersecurity, and automation** through hands-on projects. This GitHub is where I turn learning into working code and document the decisions along the way.
 
 My background in audit and risk shapes how I approach code: understand the system, question assumptions, and think about what could go wrong.
 
 ## 🛠 My Toolbox
 
-**Languages & scripting**
+### Languages & Scripting
 
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" title="Python" width="42" height="42">
@@ -27,7 +27,9 @@ My background in audit and risk shapes how I approach code: understand the syste
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" alt="PowerShell" title="PowerShell" width="42" height="42">
 </p>
 
-**Web development**
+Python is my focus for security tooling and automation, Java for object-oriented programming, and C for systems fundamentals. I use JavaScript for browser interactions and asynchronous data loading, while expanding my command-line scripting with Bash and PowerShell.
+
+### Web Development
 
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" title="HTML" width="42" height="42">
@@ -35,7 +37,9 @@ My background in audit and risk shapes how I approach code: understand the syste
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="42" height="42">
 </p>
 
-**Tools & workflow**
+I build responsive, accessible interfaces with HTML and CSS, using Bootstrap for layouts when appropriate. ES6 modules keep my JavaScript organized, and the Fetch API connects pages to data.
+
+### Tools & Workflow
 
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" width="42" height="42">
@@ -44,7 +48,8 @@ My background in audit and risk shapes how I approach code: understand the syste
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" title="Linux" width="42" height="42">
 </p>
 
-Also working with **ES6 modules, Fetch API, ESLint, and Prettier**.  
+Git and GitHub help me track changes, collaborate, and document projects. VS Code is my main coding environment; Linux supports command-line practice, while ESLint and Prettier help keep my code consistent.
+
 <sub>Icons by [Skill Icons](https://github.com/tandpfun/skill-icons).</sub>
 
 ## 🚀 Things I've Built
@@ -87,6 +92,5 @@ A Python CLI project for finding potentially exposed credentials in source code.
 ---
 
 <p align="center">
-  Outside the editor: running, music, reading, and exploring new places.<br>
   <a href="mailto:jpaintsil@norton.me">Let's connect</a> — always happy to talk code, security, and ideas.
 </p>

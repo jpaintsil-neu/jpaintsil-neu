@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1729"/><stop offset="1" stop-color="#142d3c"/></linearGradient>
+    <linearGradient id="trace"><stop stop-color="#22b8a6" stop-opacity=".12"/><stop offset="1" stop-color="#5eead4" stop-opacity=".55"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#83b3cc" stroke-opacity=".065"/></pattern>
+    <clipPath id="clip"><rect width="1000" height="200" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="200" fill="url(#bg)"/>
+    <rect width="1000" height="200" fill="url(#grid)"/>
+    <circle cx="954" cy="2" r="171" fill="none" stroke="#5eead4" stroke-opacity=".10"/>
+    <circle cx="954" cy="2" r="130" fill="none" stroke="#5eead4" stroke-opacity=".06"/>
+    <rect x="34" y="41" width="4" height="116" rx="2" fill="#5eead4"/>
+    <text x="58" y="58" fill="#83a9bd" font-family="DejaVu Sans Mono,monospace" font-size="13" letter-spacing="2">BUILD / EXPLORE / ITERATE</text>
+    <text x="56" y="108" fill="#eff6fc" font-family="DejaVu Sans,sans-serif" font-size="34" font-weight="bold">Code. Security. Automation.</text>
+    <text x="58" y="143" fill="#9cbdce" font-family="DejaVu Sans,sans-serif" font-size="17">Ideas into projects. Learning into practice.</text>
+    <path d="M624 101H659Q675 101 675 85V66H700 M624 127H642Q658 127 658 144V156H700" fill="none" stroke="url(#trace)" stroke-width="2"/>
+    <circle cx="624" cy="101" r="3" fill="#5eead4"/><circle cx="624" cy="127" r="3" fill="#5eead4"/>
+    <rect x="700" y="34" width="265" height="132" rx="12" fill="#101d2e" stroke="#385365"/>
+    <path d="M700 63H965" stroke="#2a4052"/>
+    <circle cx="718" cy="49" r="3.5" fill="#567a8e"/><circle cx="731" cy="49" r="3.5" fill="#5fa69f"/><circle cx="744" cy="49" r="3.5" fill="#6bc5b3"/>
+    <text x="722" y="108" fill="#5eead4" font-family="DejaVu Sans Mono,monospace" font-size="34">&lt;/&gt;</text>
+    <path d="M814 86H851 M814 101H883 M814 116H861" stroke="#6999b3" stroke-width="4" stroke-linecap="round"/>
+    <path d="M908 83L934 92V111Q934 128 908 135Q882 128 882 111V92Z" fill="#113631" stroke="#5eead4" stroke-width="1.5"/>
+    <path d="M898 107L906 115L921 100" fill="none" stroke="#b4f5e8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <!--PULSE-->
+  </g>
+</svg>
