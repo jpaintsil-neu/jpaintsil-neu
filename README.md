@@ -91,3 +91,19 @@ A full-stack application for organizing audit findings and tracking remediation 
 - **Programming fundamentals:** algorithms, data structures, and object-oriented design.
 
 ---
+
+## 📊 GitHub Stats
+
+<div>
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com/?user=jpaintsil-neu&theme=dark&hide_border=false"
+    alt="John Paintsil's GitHub contribution streak"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats-eight-roan-64.vercel.app/api/top-langs/?username=jpaintsil-neu&layout=compact&theme=tokyonight&hide_border=true"
+    alt="John Paintsil's most-used repository languages"
+  />
+</div>
+<br>
