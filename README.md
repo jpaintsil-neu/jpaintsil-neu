@@ -1,53 +1,92 @@
-<h1 align="center">John Paintsil</h1>
+<h1 align="center">Hey, I'm John 👋</h1>
 
 <p align="center">
-  <strong>Audit &amp; Risk · Cybersecurity · Software Development</strong><br>
-  Connecting business controls with practical technology.
+  <strong>Web development · Security tools · Scripting &amp; automation</strong>
 </p>
 
 <p align="center">
-  <a href="https://jpaintsil-neu.github.io/personal-homepage/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-16324F?style=flat-square" alt="Visit my portfolio"></a>
-  <a href="https://github.com/jpaintsil-neu?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore%20Code-0F766E?style=flat-square" alt="Explore my repositories"></a>
-  <a href="mailto:jpaintsil@norton.me"><img src="https://img.shields.io/badge/Email-Let%E2%80%99s%20Connect-475569?style=flat-square" alt="Email John Paintsil"></a>
+  <a href="https://jpaintsil-neu.github.io/personal-homepage/">Portfolio</a> ·
+  <a href="https://github.com/jpaintsil-neu?tab=repositories">Repositories</a> ·
+  <a href="mailto:jpaintsil@norton.me">Get in touch</a>
 </p>
 
----
+I'm studying **Information Technology and Computer Science at Northeastern University** and learning by building. Here you'll find web projects, programming exercises, and a growing collection of security and automation work.
 
-## About
+My background in audit and risk shapes how I approach code: understand the system, question assumptions, and think about what could go wrong.
 
-I bring **10+ years of experience** across accounting, internal audit, SOX compliance, operational risk, and financial controls. My work centers on evaluating controls, identifying risk, and turning findings into actionable improvements.
+## 🛠 My Toolbox
 
-I'm studying **Information Technology and Computer Science at Northeastern University**, building on that experience through hands-on programming, web development, cybersecurity, and automation projects.
+**Languages & scripting**
 
-**My focus:** applying a controls mindset to secure software, technology risk, and more efficient audit and compliance workflows.
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" title="Python" width="42" height="42">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" title="Java" width="42" height="42">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" title="C" width="42" height="42">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" width="42" height="42">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" title="Bash" width="42" height="42">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" alt="PowerShell" title="PowerShell" width="42" height="42">
+</p>
 
-## Selected Projects
+**Web development**
 
-| Project | What it demonstrates | Explore |
-| :--- | :--- | :--- |
-| **[Personal Homepage](https://github.com/jpaintsil-neu/personal-homepage)** | Responsive design, accessible navigation, and interactive content using semantic HTML, CSS, and ES6 modules. | [Live site](https://jpaintsil-neu.github.io/personal-homepage/) |
-| **[Airbnb Listings](https://github.com/jpaintsil-neu/airbnb-listings)** | Asynchronous JSON loading, dynamic cards for 50 listings, search, and image fallbacks. | [Live demo](https://jpaintsil-neu.github.io/airbnb-listings/) |
-| **[SecretTrace](https://github.com/jpaintsil-neu/secrettrace)** | A Python security project for detecting exposed credentials, with an emphasis on privacy and explainable results. | **In development** — foundation phase |
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" title="HTML" width="42" height="42">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" title="CSS" width="42" height="42">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="42" height="42">
+</p>
 
-## Skills & Tools
+**Tools & workflow**
 
-| Area | Technologies & strengths |
-| :--- | :--- |
-| **Programming & scripting** | Python · Java · C · JavaScript · Bash · PowerShell |
-| **Web development** | HTML · CSS · ES6 modules · Fetch API · Bootstrap |
-| **Development workflow** | Git · GitHub · VS Code · Linux · ESLint · Prettier |
-| **Audit & risk** | Internal audit · SOX · Risk assessment · IT controls · Control testing · GRC |
+<p>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" width="42" height="42">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub" width="42" height="42">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" title="Visual Studio Code" width="42" height="42">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" title="Linux" width="42" height="42">
+</p>
 
-## Current Focus
+Also working with **ES6 modules, Fetch API, ESLint, and Prettier**.  
+<sub>Icons by [Skill Icons](https://github.com/tandpfun/skill-icons).</sub>
 
-- Building technical depth in **secure application development and cybersecurity**.
-- Exploring **automation for audit, risk, and compliance**.
-- Preparing for **ISACA CISA** and **CompTIA Security+**.
+## 🚀 Things I've Built
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Personal Homepage</h3>
+      <p>A responsive site with an interactive interest spotlight, destination selector, and accessible mobile navigation.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript ES6</code></p>
+      <p>
+        <a href="https://github.com/jpaintsil-neu/personal-homepage">Source code</a> ·
+        <a href="https://jpaintsil-neu.github.io/personal-homepage/">Live site ↗</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Airbnb Listings</h3>
+      <p>A searchable interface that loads 50 listings from JSON, creates cards dynamically, and handles unavailable images.</p>
+      <p><code>JavaScript</code> <code>Fetch API</code> <code>Bootstrap</code></p>
+      <p>
+        <a href="https://github.com/jpaintsil-neu/airbnb-listings">Source code</a> ·
+        <a href="https://jpaintsil-neu.github.io/airbnb-listings/">Live demo ↗</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🔐 On My Workbench: [SecretTrace](https://github.com/jpaintsil-neu/secrettrace)
+
+A Python CLI project for finding potentially exposed credentials in source code. I'm establishing the architecture, tests, and development workflow before implementing the detection engine.
+
+`Python` `CLI` `Cybersecurity` · **In development**
+
+## 🌱 Currently Exploring
+
+- **Web applications:** asynchronous JavaScript, APIs, and accessible interfaces.
+- **Security tooling:** secure design, detection logic, and safe reporting.
+- **Programming fundamentals:** algorithms, data structures, and object-oriented design.
 
 ---
 
 <p align="center">
-  Open to conversations about <strong>IT audit, technology risk, cybersecurity, and software development.</strong><br>
-  <a href="mailto:jpaintsil@norton.me">jpaintsil@norton.me</a> ·
-  <a href="https://jpaintsil-neu.github.io/personal-homepage/">Portfolio</a>
+  Outside the editor: running, music, reading, and exploring new places.<br>
+  <a href="mailto:jpaintsil@norton.me">Let's connect</a> — always happy to talk code, security, and ideas.
 </p>
