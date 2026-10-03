@@ -4,7 +4,7 @@
   <img src="./assets/JavaScript-is-the-Boss.gif" alt="Animated JavaScript illustration connecting code with devices and digital tools." width="1000">
 </p>
 
-I'm John, exploring **software development, cybersecurity, and automation** through practical projects. My background in **accounting, internal audit, SOX compliance, and risk** has shaped how I approach technology: understand the system, question assumptions, and turn problems into useful solutions.
+Exploring **software development, cybersecurity, and automation** through practical projects. My background in **accounting, internal audit, SOX compliance, and risk** has shaped how I approach technology: understand the system, question assumptions, and turn problems into useful solutions.
 
 This GitHub brings that perspective into **web applications, security tooling, scripting, and programming fundamentals**. Each repository documents a step in that journey through working code, design decisions, and lessons learned.
 
@@ -44,7 +44,6 @@ Front-end projects combine **HTML** for semantic structure, **CSS** for responsi
 
 Development workflows use **Git** and **GitHub** for version control, collaboration, and project documentation. **VS Code** supports coding and debugging, while **Linux** provides a command-line environment. **ESLint** and **Prettier** help maintain code quality and consistent formatting.
 
-<sub>Icons by [Skill Icons](https://github.com/tandpfun/skill-icons).</sub>
 
 ## 🚀 Things I've Built
 
@@ -84,7 +83,3 @@ A Python CLI project for finding potentially exposed credentials in source code.
 - **Programming fundamentals:** algorithms, data structures, and object-oriented design.
 
 ---
-
-<p align="center">
-  <a href="mailto:jpaintsil@norton.me">Let's connect</a> — always happy to talk code, security, and ideas.
-</p>
