@@ -72,17 +72,17 @@ Development workflows use **Git** and **GitHub** for version control, collaborat
 
 ## 🔐 On My Workbench: 
 
-### [SecretTrace](https://github.com/jpaintsil-neu/secrettrace)
+### 1. [SecretTrace](https://github.com/jpaintsil-neu/secrettrace)
 
 A Python CLI project for finding potentially exposed credentials in source code. I'm establishing the architecture, tests, and development workflow before implementing the detection engine.
 
-`Python` `CLI` `Cybersecurity` · **In development**
+**In development** · `Python` `CLI` `Cybersecurity`
 
-### Audit & Security Remediation Workspace
+### 2. Audit & Security Remediation Workspace
 
 A full-stack application for organizing audit findings and tracking remediation action plans. Early planning stage focuse on defining user personas, user stories, and two independent workflows: **findings management** and **action-plan management**.
 
-`Node.js` `Express` `JavaScript ES6` `MongoDB` · **Early planning**
+**Early planning** · `Node.js` `Express` `JavaScript ES6` `MongoDB`
 
 ## 🌱 Currently Exploring
 
