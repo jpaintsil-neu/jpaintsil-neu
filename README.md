@@ -8,45 +8,6 @@ Exploring **software development, cybersecurity, and automation** through practi
 
 This GitHub brings that perspective into **web applications, security tooling, scripting, and programming fundamentals**. Each repository documents a step in that journey through working code, design decisions, and lessons learned.
 
-## Technical Toolkit
-
-### Languages & Scripting
-
-Core programming work spans **Python** for security tooling and automation, **Java** for object-oriented programming, and **C** for systems fundamentals. **JavaScript** supports interactive browser behavior and asynchronous data loading, while **Bash** and **PowerShell** support continued practice in command-line scripting.
-
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" title="Python" width="42" height="42">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" title="Java" width="42" height="42">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" title="C" width="42" height="42">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" width="42" height="42">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" title="Bash" width="42" height="42">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" alt="PowerShell" title="PowerShell" width="42" height="42">
-</p>
-
-
-### Web Development
-
-Front-end projects combine **HTML** for semantic structure, **CSS** for responsive styling, and **Bootstrap** for reusable layouts. **ES6 modules** organize application logic, while the **Fetch API** enables data-driven interfaces. Accessibility and usability guide navigation, controls, and page structure.
-
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" title="HTML" width="42" height="42">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" title="CSS" width="42" height="42">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="42" height="42">
-</p>
-
-
-### Tools & Workflow
-
-Development workflows use **Git** and **GitHub** for version control, collaboration, and project documentation. **VS Code** supports coding and debugging, while **Linux** provides a command-line environment. **ESLint** and **Prettier** help maintain code quality and consistent formatting.
-
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" width="42" height="42">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub" width="42" height="42">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" title="Visual Studio Code" width="42" height="42">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" title="Linux" width="42" height="42">
-</p>
-
-
 ## 🚀 Things I've Built
 
 <table>
@@ -93,6 +54,53 @@ A full-stack application for organizing audit findings and tracking remediation 
 - **Programming fundamentals:** algorithms, data structures, and object-oriented design.
 
 ---
+
+## Technical Toolkit
+
+<table>
+  <tr>
+    <th width="33%">Languages &amp; Scripting</th>
+    <th width="33%">Web Development</th>
+    <th width="33%">Tools &amp; Workflow</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <p><strong>Logic &amp; Automation</strong></p>
+      <p>Programming, security tooling, and systems fundamentals.</p>
+      <p>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" height="36">
+        <br><br>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" alt="PowerShell" height="36">
+      </p>
+    </td>
+    <td align="center" valign="top">
+      <p><strong>Interfaces &amp; Interaction</strong></p>
+      <p>Responsive design, accessibility, and data-driven experiences.</p>
+      <p>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" height="36">
+      </p>
+      <p><code>ES6 Modules</code><br><code>Fetch API</code></p>
+    </td>
+    <td align="center" valign="top">
+      <p><strong>Quality &amp; Collaboration</strong></p>
+      <p>Version control, debugging, and consistent development practices.</p>
+      <p>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" height="36">
+        <br><br>
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" height="36">
+      </p>
+      <p><code>ESLint</code> <code>Prettier</code></p>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
