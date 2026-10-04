@@ -12,6 +12,8 @@ This GitHub brings that perspective into **web applications, security tooling, s
 
 ### Languages & Scripting
 
+Core programming work spans **Python** for security tooling and automation, **Java** for object-oriented programming, and **C** for systems fundamentals. **JavaScript** supports interactive browser behavior and asynchronous data loading, while **Bash** and **PowerShell** support continued practice in command-line scripting.
+
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" title="Python" width="42" height="42">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" title="Java" width="42" height="42">
@@ -21,9 +23,10 @@ This GitHub brings that perspective into **web applications, security tooling, s
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" alt="PowerShell" title="PowerShell" width="42" height="42">
 </p>
 
-Core programming work spans **Python** for security tooling and automation, **Java** for object-oriented programming, and **C** for systems fundamentals. **JavaScript** supports interactive browser behavior and asynchronous data loading, while **Bash** and **PowerShell** support continued practice in command-line scripting.
 
 ### Web Development
+
+Front-end projects combine **HTML** for semantic structure, **CSS** for responsive styling, and **Bootstrap** for reusable layouts. **ES6 modules** organize application logic, while the **Fetch API** enables data-driven interfaces. Accessibility and usability guide navigation, controls, and page structure.
 
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" title="HTML" width="42" height="42">
@@ -31,9 +34,10 @@ Core programming work spans **Python** for security tooling and automation, **Ja
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="42" height="42">
 </p>
 
-Front-end projects combine **HTML** for semantic structure, **CSS** for responsive styling, and **Bootstrap** for reusable layouts. **ES6 modules** organize application logic, while the **Fetch API** enables data-driven interfaces. Accessibility and usability guide navigation, controls, and page structure.
 
 ### Tools & Workflow
+
+Development workflows use **Git** and **GitHub** for version control, collaboration, and project documentation. **VS Code** supports coding and debugging, while **Linux** provides a command-line environment. **ESLint** and **Prettier** help maintain code quality and consistent formatting.
 
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" width="42" height="42">
@@ -41,8 +45,6 @@ Front-end projects combine **HTML** for semantic structure, **CSS** for responsi
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" title="Visual Studio Code" width="42" height="42">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" title="Linux" width="42" height="42">
 </p>
-
-Development workflows use **Git** and **GitHub** for version control, collaboration, and project documentation. **VS Code** supports coding and debugging, while **Linux** provides a command-line environment. **ESLint** and **Prettier** help maintain code quality and consistent formatting.
 
 
 ## 🚀 Things I've Built
