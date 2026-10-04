@@ -85,7 +85,10 @@ A full-stack application for organizing audit findings and tracking remediation 
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" height="36">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" height="36">
       </p>
-      <p><code>ES6 Modules</code><br><code>Fetch API</code></p>
+      <p>
+  <img src="./assets/toolkit/es6-modules.svg" alt="ES6 Modules" title="ES6 Modules" width="36" height="36">
+  <img src="./assets/toolkit/fetch-api.svg" alt="Fetch API" title="Fetch API" width="36" height="36">
+</p>
     </td>
     <td align="center" valign="top">
       <p><strong>Quality &amp; Collaboration</strong></p>
@@ -93,11 +96,12 @@ A full-stack application for organizing audit findings and tracking remediation 
       <p>
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" height="36">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" height="36">
-        <br><br>
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" height="36">
+        <br><br>
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" height="36">
+        <img src="./assets/toolkit/eslint.svg" alt="ESLint" title="ESLint" width="36" height="36">
+        <img src="./assets/toolkit/prettier.svg" alt="Prettier" title="Prettier" width="36" height="36">
       </p>
-      <p><code>ESLint</code> <code>Prettier</code></p>
     </td>
   </tr>
 </table>
