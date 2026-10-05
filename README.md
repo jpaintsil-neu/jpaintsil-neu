@@ -57,6 +57,8 @@ A full-stack application for organizing audit findings and tracking remediation 
 
 ## Technical Toolkit
 
+## Technical Toolkit
+
 <table>
   <tr>
     <th width="33%">Languages &amp; Scripting</th>
@@ -68,37 +70,36 @@ A full-stack application for organizing audit findings and tracking remediation 
       <p><strong>Logic &amp; Automation</strong></p>
       <p>Programming, security tooling, and systems fundamentals.</p>
       <p>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" height="36">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" height="36">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" title="Python" width="36" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" title="Java" width="36" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" title="C" width="36" height="36">
         <br><br>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" height="36">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" height="36">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" alt="PowerShell" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript" width="36" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" title="Bash" width="36" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" alt="PowerShell" title="PowerShell" width="36" height="36">
       </p>
     </td>
     <td align="center" valign="top">
       <p><strong>Interfaces &amp; Interaction</strong></p>
       <p>Responsive design, accessibility, and data-driven experiences.</p>
       <p>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" height="36">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" height="36">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" title="HTML5" width="36" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS3" title="CSS3" width="36" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36">
+        <br><br>
+        <img src="./assets/toolkit/es6-modules.svg" alt="ES6 Modules" title="ES6 Modules" width="36" height="36">
+        <img src="./assets/toolkit/fetch-api.svg" alt="Fetch API" title="Fetch API" width="36" height="36">
       </p>
-      <p>
-  <img src="./assets/toolkit/es6-modules.svg" alt="ES6 Modules" title="ES6 Modules" width="36" height="36">
-  <img src="./assets/toolkit/fetch-api.svg" alt="Fetch API" title="Fetch API" width="36" height="36">
-</p>
     </td>
     <td align="center" valign="top">
       <p><strong>Quality &amp; Collaboration</strong></p>
       <p>Version control, debugging, and consistent development practices.</p>
       <p>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" height="36">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" height="36">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git" width="36" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub" width="36" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="Visual Studio Code" title="Visual Studio Code" width="36" height="36">
         <br><br>
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" height="36">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" title="Linux" width="36" height="36">
         <img src="./assets/toolkit/eslint.svg" alt="ESLint" title="ESLint" width="36" height="36">
         <img src="./assets/toolkit/prettier.svg" alt="Prettier" title="Prettier" width="36" height="36">
       </p>
