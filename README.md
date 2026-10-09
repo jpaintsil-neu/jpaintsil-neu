@@ -41,11 +41,11 @@ A Python CLI project for finding potentially exposed credentials in source code.
 
 **In development** · `Python` `CLI` `Cybersecurity`
 
-### 2. Audit & Security Remediation Workspace
+### 2. [VulnScope](https://github.com/jpaintsil-neu/vulnscope)
 
-A full-stack application for organizing audit findings and tracking remediation action plans. Early planning stage focuse on defining user personas, user stories, and two independent workflows: **findings management** and **action-plan management**.
+A full-stack cybersecurity application designed to make public vulnerability data easier to understand and act on. Planned features include **CVE exploration, severity filtering, vulnerability triage, and product security reviews**, using data from NIST’s National Vulnerability Database.
 
-**Early planning** · `Node.js` `Express` `JavaScript ES6` `MongoDB`
+**Design & setup** · `Node.js` `Express` `JavaScript ES6` `MongoDB`
 
 ## 🌱 Currently Exploring
 
