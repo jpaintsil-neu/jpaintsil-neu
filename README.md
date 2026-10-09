@@ -35,17 +35,17 @@ This GitHub brings that perspective into **web applications, security tooling, s
 
 ## 🔐 On My Workbench: 
 
-### 1. [SecretTrace](https://github.com/jpaintsil-neu/secrettrace)
-
-A Python CLI project for finding potentially exposed credentials in source code. I'm establishing the architecture, tests, and development workflow before implementing the detection engine.
-
-**In development** · `Python` `CLI` `Cybersecurity`
-
-### 2. [VulnScope](https://github.com/jpaintsil-neu/vulnscope)
+### 1. [VulnScope](https://github.com/jpaintsil-neu/vulnscope)
 
 A full-stack cybersecurity application designed to make public vulnerability data easier to understand and act on. Planned features include **CVE exploration, severity filtering, vulnerability triage, and product security reviews**, using data from NIST’s National Vulnerability Database.
 
 **Design & setup** · `Node.js` `Express` `JavaScript ES6` `MongoDB`
+
+### 2. [SecretTrace](https://github.com/jpaintsil-neu/secrettrace)
+
+A Python CLI project for finding potentially exposed credentials in source code. I'm establishing the architecture, tests, and development workflow before implementing the detection engine.
+
+**In development** · `Python` `CLI` `Cybersecurity`
 
 ## 🌱 Currently Exploring
 
