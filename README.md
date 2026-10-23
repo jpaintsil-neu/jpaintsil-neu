@@ -4,9 +4,9 @@
   <img src="./assets/JavaScript-is-the-Boss.gif" alt="Animated JavaScript illustration connecting code with devices and digital tools." width="1000">
 </p>
 
-Exploring **software development, cybersecurity, and automation** through practical projects. My background in **accounting, internal audit, SOX compliance, and risk** has shaped how I approach technology: understand the system, question assumptions, and turn problems into useful solutions.
+Exploring **software development, cybersecurity, and automation** through practical projects. My background in **accounting, internal audit, SOX compliance, and risk** has shaped the way I approach technology: understand the system, question assumptions, and turn problems into effective solutions.
 
-This GitHub brings that perspective into **web applications, security tooling, scripting, and programming fundamentals**. Each repository documents a step in that journey through working code, design decisions, and lessons learned.
+This GitHub reflects that perspective through **web applications, security tooling, scripting, and programming fundamentals**. Each repository captures a step in that journey, with working code, design decisions, and lessons learned.
 
 ## 🚀 Things I've Built
 
