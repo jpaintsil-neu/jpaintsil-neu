@@ -1,0 +1,47 @@
+name: Profile validation
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  quality:
+    name: Quality checks
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Validate README and local images
+        shell: python
+        run: |
+          from html.parser import HTMLParser
+          from pathlib import Path
+          from urllib.parse import unquote, urlsplit
+
+          readme = Path("README.md")
+          assert readme.is_file(), "README.md is missing"
+          content = readme.read_text(encoding="utf-8")
+          assert content.strip(), "README.md is empty"
+
+          class ImageChecker(HTMLParser):
+              def handle_starttag(self, tag, attrs):
+                  if tag != "img":
+                      return
+                  src = dict(attrs).get("src", "")
+                  assert src, "An image is missing its src"
+                  url = urlsplit(src)
+                  if url.scheme or url.netloc:
+                      return
+                  image = readme.parent / unquote(url.path)
+                  assert image.is_file(), f"Missing image: {src}"
+
+          ImageChecker().feed(content)
+          print("README and local image checks passed.")
